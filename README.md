@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">:wave: Hi, I'm XexWork.</h1>
 
-<!--
-**XexWork/XexWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Java** and **Python** developer. :rocket:  
 
-Here are some ideas to get you started:
+<h3 align="left">:mailbox: Connect with me:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/rarchik-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">:briefcase: My development stack:</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+</p>
