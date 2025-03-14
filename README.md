@@ -4,7 +4,7 @@ I'm a **Java** and **Python** developer. :rocket:
 
 <h3 align="left">:mailbox: Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/xexwork-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xexpvp-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
 </p>
 
 
