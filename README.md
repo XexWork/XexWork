@@ -3,7 +3,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
- <img src="https://img.shields.io/badge/xexpvp-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/excellentuser-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
  <img src="https://img.shields.io/badge/xexcoding-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
 <p align="left">
 </p>
