@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🎩 , I'm Stefan Moroko</h1>
-<h3 align="center">I'm Developer from Ukraine</h3>
+<h3 align="center">I'm Developer from Czech Republic</h3>
 
 
 <h3 align="left">Connect with me:</h3>
