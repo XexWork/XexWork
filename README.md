@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🎩 , I'm Stefan Pinčuk</h1>
+<h1 align="center">Hi 🎩 , I'm Stefan Nyberg</h1>
 <h3 align="center">I'm Developer from Czech Republic</h3>
 
 
