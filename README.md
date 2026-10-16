@@ -6,6 +6,9 @@
 
 **Vue.js · React · Python · MySQL · Java · Linux**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Python+Developer...+OK;%3E+Java+Developer...+OK;%3E+JavaScript+Developer...+OK;%3E+Telegram+Bot+Developer...+OK;%3E+Discord+Bot+Developer...+OK;%3E+Web+Developer...+OK" />
+
+
 Building production backend systems, APIs, integrations and automation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-XexWork-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/xexwork)
