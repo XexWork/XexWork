@@ -4,7 +4,7 @@
 
 ### Backend Software Engineer from Belarus
 
-**Vue.js · React · Python · MySQL · Java · Lunux**
+**Vue.js · React · Python · MySQL · Java · Linux**
 
 Building production backend systems, APIs, integrations and automation.
 
