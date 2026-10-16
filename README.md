@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🎩 , I'm Stefan Nyberg</h1>
-<h3 align="center">I'm Developer from Czech Republic</h3>
+<h1 align="center">Hi 🎩 , I'm Ivan Zuev</h1>
+<h3 align="center">I'm Developer from Belarus</h3>
 
 
 <h3 align="left">Connect with me:</h3>
