@@ -14,6 +14,7 @@ Building production backend systems, APIs, integrations and automation.
 [![GitHub](https://img.shields.io/badge/GitHub-XexWork-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/xexwork)
 [![Telegram](https://img.shields.io/badge/Telegram-xexcoding-181717?style=flat\&logo=telegram\&logoColor=blue)](https://t.me/@xexcoding)
 [![Discord](https://img.shields.io/badge/Discord-lux.by-181717?style=flat\&logo=discord\&logoColor=purple)](https://discord.gg/lux.by)
+![Profile Views](https://komarev.com/ghpvc/?username=xexwork\&style=flat)
 
 </div>
 
