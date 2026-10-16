@@ -31,7 +31,7 @@ const ivan = {
 ### ⚙️ Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,mongodb,js,react,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,mongodb,js,react,git,html,css,cpp&perline=12" />
 </p>
 
 **Backend:** REST APIs · Authentication / SSO · Async Processing · Payments · Integrations
@@ -40,7 +40,7 @@ const ivan = {
 
 ### 🚀 Current focus
 
-Learning **C++** for production desktop development — concurrency, goroutines, channels, context, gRPC and service design.
+Learning **C++** for production desktop development.
 
 ### 🎮 Contributions
 
