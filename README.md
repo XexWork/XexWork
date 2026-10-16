@@ -1,15 +1,60 @@
-<h1 align="center">Hi 🎩 , I'm Ivan Zuev</h1>
-<h3 align="center">I'm Developer from Belarus</h3>
+<div align="center">
 
+# Ivan Zuev
 
-<h3 align="left">Connect with me:</h3>
- <img src="https://img.shields.io/badge/lux.by-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
- <img src="https://img.shields.io/badge/xexcoding-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
-<p align="left">
+### Backend Software Engineer from Belarus
+
+**Vue.js · React · Python · MySQL · Java · Lunux**
+
+Building production backend systems, APIs, integrations and automation.
+
+[![GitHub](https://img.shields.io/badge/GitHub-xexwork-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/xexwork)
+
+</div>
+
+### 👨‍💻 About
+
+```
+const ivan = {
+  role: "Backend Software Engineer",
+  stack: ["React.js", "Python", "Java", "Vue.js", "Linux"],
+  learning: ["C++"],
+  interests: ["Backend", "Frontend", "WebDev", "DesktopDev"],
+};
+```
+
+### ⚙️ Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,linux,mongodb,js,react,git&perline=12" />
 </p>
 
-<h3 align="left">My Languages and Tools:</h3>
- </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a>  </a> </a>  </a>  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </a>  </a>  </a>  </a>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a>  </a>  </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p> 
+**Backend:** REST APIs · Authentication / SSO · Async Processing · Payments · Integrations
+**Infrastructure:** AWS · CI/CD · MySQL · Redis
+**Also:** Python · Microservices
 
+### 🚀 Current focus
 
+Learning **C++** for production desktop development — concurrency, goroutines, channels, context, gRPC and service design.
 
+### 🎮 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/monxchrome/monxchrome/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/monxchrome/monxchrome/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/monxchrome/monxchrome/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<div align="center">
+
+`ship → measure → improve → repeat`
+
+</div>
