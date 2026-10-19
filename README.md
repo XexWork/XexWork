@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ivan Nyberg
+# Stefan Nyberg
 
 ### Backend Software Engineer from Belarus
 
