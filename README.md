@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ivan Zuev
+# Ivan Nyberg
 
 ### Backend Software Engineer from Belarus
 
