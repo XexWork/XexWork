@@ -20,7 +20,7 @@ Building production backend systems, APIs, integrations and automation.
 ### 👨‍💻 About
 
 ```
-const ivan = {
+const Stefan = {
   role: "Backend Software Engineer",
   stack: ["React.js", "Python", "Java", "Vue.js", "Linux"],
   learning: ["C++"],
